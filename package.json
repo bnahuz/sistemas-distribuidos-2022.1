@@ -1,0 +1,13 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "Atividade de websockets para a disciplina de sistemas distribuídos ",
+  "main": "index.js",
+  "repository": "git@github.com:bnahuz/sistemas-distribuidos-2022.1.git",
+  "author": "Breno Nahuz <bnahuz@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "net": "^1.0.2"
+  }
+}
